@@ -1,4 +1,4 @@
-# Namaste, I'm Nyasha Chauhan 👋
+# Namaste, I'm Nyasha Chauhan 🙏
 
 **AIML Engineering Student @ BMSIT Bengaluru**
 
