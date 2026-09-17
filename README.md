@@ -1,5 +1,8 @@
 # Namaste, I'm Nyasha Chauhan 🙏
 
+> *Per aspera ad astra.*
+
+
 **AIML Engineering Student @ BMSIT Bengaluru**
 
 - DSA & Problem Solving
@@ -8,7 +11,6 @@
 - React | Node.js | Flask
 - MySQL | PostgreSQL | MongoDB
 
-> *Per aspera ad astra.*
 
 ### Tech Stack
 
